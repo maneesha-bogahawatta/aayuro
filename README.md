@@ -160,7 +160,7 @@ aayuro/
 | `PAQ_H.XPT` | CDC NHANES 2013–2014 | Physical activity & sedentary time |
 | `NHANES_2013_2014_MORT_2019_PUBLIC.dat` | CDC Linked Mortality File | Vital status + follow-up months |
 
-**Download from:** https://www.cdc.gov/nchs/data-linkage/mortality-public.htm
+**Download from:** https://catalog.data.gov/dataset/public-use-linked-mortality-files
 
 ---
 
